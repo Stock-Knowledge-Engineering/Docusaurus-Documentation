@@ -28,14 +28,7 @@ function HomepageHeader() {
       </div>
     </header>
   );
-  <footer>
-    <img
-                alt="logo"
-                className={styles.heroLogo}
-                src={('/img/logo.svg')}
-              />
-    
-  </footer>
+ 
 }
 
 export default function Home() {
