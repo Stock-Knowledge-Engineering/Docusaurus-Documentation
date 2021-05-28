@@ -10,8 +10,12 @@ function HomepageHeader() {
   return (
     
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
-      
       <div className="container">
+      <img
+                alt="logo"
+                className={styles.heroLogo}
+                src={('/img/main-hero.svg')}
+              />
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
@@ -24,6 +28,14 @@ function HomepageHeader() {
       </div>
     </header>
   );
+  <footer>
+    <img
+                alt="logo"
+                className={styles.heroLogo}
+                src={('/img/logo.svg')}
+              />
+    
+  </footer>
 }
 
 export default function Home() {
@@ -39,3 +51,4 @@ export default function Home() {
     </Layout>
   );
 }
+

@@ -2,13 +2,13 @@
 module.exports = {
   title: 'Stock Knowledge',
   tagline: 'Play to Learn, learn to play!',
-  url: 'https://VicOrbonII.github.io',
-  baseUrl: '/Docusaurus-Documentation/',
+  url: 'https://Stock-Knowledge-Engineering.github.io',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-   organizationName: 'VicOrbonII', // Usually your GitHub org/user name.
-  projectName: 'Docusaurus-Documentation', // Usually your repo name.
+   organizationName: 'Stock-Knowledge-Engineering', // Usually your GitHub org/user name.
+  projectName: 'Stock-Knowledge-Engineering.github.io', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Stock Knowledge',
@@ -20,19 +20,25 @@ module.exports = {
       },
      
     },
+    
     footer: {
+    
+   
       
-      style: 'light',
+      style: 'dark',
       links: [
+        
+        
        
         {
-          title: 'Community',
-          items: [
+          title: 'Follow us on',
+          
+           items: [
             
             {
-              label: 'Facebook',
+               label:'Facebook',
               href: 'https://www.facebook.com/groups/1118893898545259?_rdc=1&_rdr',
-      
+              src: 'img/fb.png',
               
             },
             {
@@ -60,14 +66,26 @@ module.exports = {
             
               
             },
+            
            
           ],
         },
         
       ],
+     
+      
+     
+    
       copyright: `Copyright © ${new Date().getFullYear()} Stock Knowledge Corp. Built with Docusaurus.`,
     },
+  
+  
+  
+  
   },
+  
+
+
   presets: [
     [
       '@docusaurus/preset-classic',
@@ -91,3 +109,4 @@ module.exports = {
     ],
   ],
 };
+
