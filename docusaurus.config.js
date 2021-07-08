@@ -4,7 +4,7 @@ module.exports = {
   tagline: "Play to Learn, learn to play!",
   url: "https://Stock-Knowledge-Engineering.github.io",
   baseUrl: "/",
-  onBrokenLinks: "throw",
+  onBrokenLinks: "ignore",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
   organizationName: "Stock-Knowledge-Engineering", // Usually your GitHub org/user name.
