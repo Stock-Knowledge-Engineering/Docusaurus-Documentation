@@ -10,7 +10,7 @@ As an open-source project, we are open to the help of others. We are imposing so
 
 ### Reporting Issues
 
-Use the template below.
+Use the template below to report an issue.
 
 > **Description:**
 >
