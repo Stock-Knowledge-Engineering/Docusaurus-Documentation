@@ -34,4 +34,4 @@ If you are using GitHub pages for hosting, this command is a convenient way to b
 
 
 ## COPYRIGHTED CONTENTS
-Images, videos, and text contents that are unique to Stock Knowledge are copyrighted. Please ask permission if you wish to use them.
+Images(2D and 3D assets), videos, and text contents that are unique to Stock Knowledge are copyrighted. Please ask permission if you wish to use them.
