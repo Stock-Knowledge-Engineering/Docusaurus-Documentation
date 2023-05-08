@@ -44,7 +44,7 @@ module.exports = {
             },
             {
               href: "https://www.linkedin.com/company/stock-knowledge/mycompany",
-              label: "LinkIn",
+              label: "LinkedIn",
             },
           ],
         },

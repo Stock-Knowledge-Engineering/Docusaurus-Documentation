@@ -19,12 +19,12 @@ const FeatureList = [
     Reality, Gamification, and Adaptive Learning.
     </p>
     <p>
-    Educator and phycist Anna Marie Benzon launched Stock Knowledge 
+    Educator and physicist Anna Marie Benzon launched Stock Knowledge 
     to focus on how young learners could foster better appreciation 
     for their school subjects after realizing tha traditional methods 
     were not as engaging anymore in the age of internet.</p>
     <p>
-    Stock Knowledge is proud to be part of the Unicef Innovation Fund portfolio
+    Stock Knowledge is proud to be part of the UNICEF Innovation Fund portfolio
     and supported by the Philippines' Department of Education.</p>
     
     <p>
@@ -37,7 +37,7 @@ const FeatureList = [
     <center>
     Having an open solution in our business process, we make our technological
      progress faster and more effecient when a potential million
-     developers from around the world would contirbute to our project as oppose
+     developers from around the world would contribute to our project as oppose
      to having a tiny group of developers we have as a startup company.
      Your contribution will greatly help us build a more reliable, secure, cost-effecient, and flexible
      learning platform.
